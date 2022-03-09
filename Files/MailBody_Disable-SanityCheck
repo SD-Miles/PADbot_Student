@@ -1,0 +1,1 @@
+The number of withdrawn student accounts to disable has exceeded PADbot's sanity check limits, so NO changes have been made to Active Directory or the Google directory. Please check the attached file called "SANITY_CHECK.txt" to see a list of the accounts that would have been disabled if the script continued.
