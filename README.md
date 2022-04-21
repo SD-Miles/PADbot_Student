@@ -1,5 +1,8 @@
-PADbot_Student (This Is Not Production Code!)
-==========================================
+PADbot_Student
+==============
+
+This is not production code!
+----------------------------
 
 PADbot_Student is a script to automate the creation of student accounts in Active Directory and synchronize them to Google Workspace for Education. The code you see here has been posted for demonstration only, and has been modified from the code I use in production to **remove all potential security/privacy issues** and cut some tangential operations. The Active Directory domain and several other specific values are all fake and/or randomly generated.
 
